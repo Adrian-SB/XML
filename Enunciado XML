@@ -2,16 +2,16 @@ Empresas ubicadas en residencias empresariales municipales
 
 1-Lista las empresa con su residencia correspondiente.
 
-2-Lista las empresa con una descripción que tenga una longitud mayor de 20 cacrateres. 
+2-Tras introducir una cadena de texto, muestra las empresa en las que su descripción coincida con dicha cadena(Tipo de empresa). 
 
 3-Lista las empresas con más de un teléfono (includo el fax).
 
-4-Programa que lea por teclado el nombre de un residencia y te muestre la longitud y latitud.
+4-Solicita el nombre de un residencia y muestra la longitud y latitud en un mapa.
 
-5-Programa que lea por teclado el nombre de la empresa y muestra sus telefono,el fax,el email y la pagina web.
+5-Programa que lea por teclado el nombre de la empresa y muestra su teléfonos,fax,email y pagina web.
 
 
-http://datos.gob.es/es/catalogo/l01330241-empresas-ubicadas-en-residencias-empresariales-municipales
+Fichero optenido de: http://datos.gob.es/es/catalogo/l01330241-empresas-ubicadas-en-residencias-empresariales-municipales
 
 
 
