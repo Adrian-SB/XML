@@ -4,7 +4,7 @@ Empresas ubicadas en residencias empresariales municipales
 
 2-Tras introducir una cadena de texto, muestre el número de empresas en las que su descripción coincida con dicha cadena(Tipo de empresa). 
 
-3-Lista las empresas con más de un teléfono (includo el fax).
+3-Lista las empresas con más de un teléfono.
 
 4-Solicita el nombre de un residencia y muestra la longitud y latitud en un mapa.
 
