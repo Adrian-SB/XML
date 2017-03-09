@@ -13,4 +13,4 @@ sep="/"
 
 for n in nombres:
     if sep in telefonos:
-        print "La asosiacion",n.text, "tiene 2 telefonos"
+        print "La empresa",n.text, "tiene 2 telefonos"
